@@ -3,5 +3,6 @@ Faculdade Impacta
 
 Nome de 3 atores:
 - Brad Pitt 
-- Angelina Jolie 
+- Anne Hathaway 
 -Will Smith 
+- Cléo Pires
